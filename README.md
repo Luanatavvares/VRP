@@ -1,8 +1,4 @@
-Perfeito — então o ideal é um **README curto**, só para **situar quem entra no repositório**, sem repetir o relatório. Algo simples, claro e profissional.
 
-Você pode usar este:
-
----
 
 # VRPTW - Algoritmo Genético Híbrido
 
@@ -19,7 +15,7 @@ A implementação foi desenvolvida em **Python**, utilizando a biblioteca **DEAP
 Os experimentos foram realizados utilizando instâncias clássicas de benchmark amplamente utilizadas na literatura:
 
 * Instâncias de **Solomon**
-* Instâncias de **Homberger e Gehring**
+* Instâncias de **Homberger**
 
 Os resultados obtidos são comparados com os melhores valores conhecidos da literatura para avaliar o desempenho do método.
 
