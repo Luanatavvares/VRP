@@ -37,12 +37,5 @@ Os resultados obtidos são comparados com os melhores valores conhecidos da lite
 * Algoritmos Genéticos
 * Busca Local
 
-## Autora
 
-Luana Tavares Anselmo
-Graduanda em Ciência da Computação
-Universidade Federal de Viçosa
 
----
-
-Se quiser, posso também te mostrar **3 pequenas coisas que deixam README de pesquisa muito mais profissional no GitHub** (coisas que quase ninguém coloca, mas professores e recrutadores gostam muito).
