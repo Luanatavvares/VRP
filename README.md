@@ -23,11 +23,19 @@ Os resultados obtidos são comparados com os melhores valores conhecidos da lite
 
 ```
 .
-├── instancias/        # Conjuntos de instâncias utilizados nos experimentos
-├── src/               # Implementação do algoritmo
-├── resultados/        # Resultados obtidos nos experimentos
-├── scripts/           # Scripts auxiliares para execução e análise
-└── README.md
+├── Data/        # Conjuntos de instâncias utilizados nos experimentos
+    ├──   Solomon/               # Intâncias Solomon incluindo arquivo txt e .sol contendo a solução ótima já existente na literatura (.sol e .txt) 
+    ├──   Homberger/             # Instâncias Homberger (.txt)
+
+├── src/  
+    ├── vrp/               # Script principal 
+    ├── validar/           # Scripts auxiliares para execução e análise
+├── Homberger.html/        # Soluções ótimas já existentes na literatura
+
+
+
+
+
 ```
 
 ## Tecnologias utilizadas
