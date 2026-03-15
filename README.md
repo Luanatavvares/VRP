@@ -115,25 +115,25 @@ pip install deap rich
 | `rich` | Tabela colorida no terminal pelo `validar.py` (opcional) |
 
 
-## Uso — Algoritmo principal (`vrptw_ga_v2.py`)
+## Uso — Algoritmo principal (`vrp.py`)
 
 Executa o GA em uma única instância.
 
 ```bash
-python vrptw_ga_v2.py <instancia.txt> [opções]
+python vrp.py <instancia.txt> [opções]
 ```
 
 ### Exemplos
 
 ```bash
 # Execução básica com parâmetros padrão (120s, pop=200, gen=500)
-python vrptw_ga_v2.py Data/Solomon/C101.txt
+python vrp.py Data/Solomon/C101.txt
 
 # Execução com tempo estendido e semente fixa
-python vrptw_ga_v2.py Data/Solomon/R101.txt --time 300 --pop 300 --seed 7
+python vrp.py Data/Solomon/R101.txt --time 300 --pop 300 --seed 7
 
 # Execução rápida para teste
-python vrptw_ga_v2.py Data/Solomon/C101.txt --time 30 --pop 50 --gen 100
+python vrp.py Data/Solomon/C101.txt --time 30 --pop 50 --gen 100
 ```
 
 ### Parâmetros
